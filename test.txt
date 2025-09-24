@@ -1,1 +1,2 @@
 Hi, my name is Shreesh
+This is a readme file for the SIC IoT course
